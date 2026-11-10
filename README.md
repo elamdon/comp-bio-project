@@ -1,3 +1,9 @@
+# Dating the ancestor of SARS-CoV-2
+
+Author: Liz Donalson
+
+A reproducible molecular clock analysis of 24 SARS-CoV-2 genomes, for BIOl6800.
+
 # Comp Bio project template
 
 This repository is a starting point for your own computational biology
